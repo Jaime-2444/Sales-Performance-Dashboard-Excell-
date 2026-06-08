@@ -1,7 +1,7 @@
 # Sales-Performance-Dashboard-Excell-
 Project to see sales performance.
 
-# Some conclusion you get from this are:
+# From this, you may draw the following conclusions:
 -Nearly 49% of total revenue came from Germany, showing how dependent the company is on this market;
 -The company's primary sales driver, the Technology category, accounted for over 80% of revenue.
 
